@@ -1,0 +1,33 @@
+{
+  "name": "bank36",
+  "short_name": "bank36",
+  "description": "bank36 — Private Banking & Wealth Management",
+  "start_url": "/bank36.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0d1a19",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-light-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-dark-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
